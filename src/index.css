@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+button{
+    border: none;
+    background-color: transparent;
+}
+.contact-link {
+    text-decoration: none;
+    color: #007bffd2;
+  }
+  
+.contact-link:hover {
+    color:#007bff
+  }
+
+.contact-detail{
+    max-width: 25rem;
+}
+
+.custom-name {
+  font-size: 2.5rem; 
+  color: rgba(44, 44, 44, 0.918);
+}
+
+.custom-email {
+  color: #0080ffda; /* Change to your desired color */
+   font-size: 1.2rem;
+   font-weight: 500;
+}
